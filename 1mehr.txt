@@ -1,0 +1,19 @@
+time 7/1
+
+Task Details
+1)I learnd the decorator
+2)I learnd the iterator
+3)I see ganerator
+
+challenges
+1)The decorator was very difficult for me to understand, but with a lot of practice and code reading, I could almost understand it
+2)I didn't understand the generator (that is, I only realized that it is a memory location that every time you call it, the complete program does not run, for example, it returns only one of the numbers)
+
+next steps
+see corotin and amalgar valros
+see adrak
+Conclusion
+1)A decorator is a function that receives another function and executes them without changing the second operand.
+2)Iterators are the same repeaters like (For and While), which must be used with the Next method.
+
+

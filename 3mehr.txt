@@ -1,0 +1,20 @@
+time 7/3
+
+Task Details
+1)I learnd the coroutin
+2)I learnd the amalgar valros
+3)I see adrak
+
+challenges
+I don't have challenge
+
+next steps
+see more amalgar valros
+see function math
+see function's metod and list's metod
+see dictionary's metod
+
+Conclusion
+Coroutin does several things together
+
+
