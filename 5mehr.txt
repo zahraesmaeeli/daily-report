@@ -1,0 +1,15 @@
+time 7/5
+
+Task Details
+see function's metod and list's metod
+see dictionary's metod
+see module's concept
+
+challenges
+internet
+
+next steps
+see module videos
+
+Conclusion
+nothing
